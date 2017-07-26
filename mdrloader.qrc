@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/flashers">
+        <file>1986_BOOT_UART.hex</file>
+        <file>1986ve1bootuarte.hex</file>
+        <file>bootuartve4.hex</file>
+    </qresource>
+</RCC>
